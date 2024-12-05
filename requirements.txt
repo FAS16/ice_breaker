@@ -1,0 +1,7 @@
+langchain
+langchain-openai~=0.2.11
+langchain-ollama
+langchain-community
+langchainhub
+python-dotenv~=1.0.1
+langchain-core~=0.3.21
